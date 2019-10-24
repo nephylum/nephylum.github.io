@@ -10,7 +10,7 @@ Are Popular Games Played Less?
 
   While the popularity of a video game may drive in alot of new players, do alot of these new players drop out quicker than average, lowering the total average playtime of a game?
  
-![Crepe](https://miro.medium.com/max/592/1*LAwcvh1J5LKBFG4yh6zcIQ.png){: .center-block :}
+![Plot of Averages](https://miro.medium.com/max/645/1*khcU_1wP3Lciaj6T2SL1yw.png){: .center-block :}
 
   It looks like there are more dedicated players pushing up the average than casuals who quit after playing only a few hours.
   
