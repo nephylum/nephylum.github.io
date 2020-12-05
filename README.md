@@ -1,4 +1,5 @@
-#Eric Ramon's Portfolio Page
+# Eric Ramon's Portfolio Page
+
 The main page will be updated to have posts on the main page linking to articles and projects
 
 Also on the main page will be links to contact information as well as a dedicated page highlighting some of my most prominent projects and achievements in data science.
