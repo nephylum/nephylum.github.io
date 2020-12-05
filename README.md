@@ -1,3 +1,11 @@
+#Eric Ramon's Portfolio Page
+The main page will be updated to have posts on the main page linking to articles and projects
+
+Also on the main page will be links to contact information as well as a dedicated page highlighting some of my most prominent projects and achievements in data science.
+
+This page uses Beautiful Jekyll (I'll keep the original readme below for personal future reference)
+
+
 # Beautiful Jekyll
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
